@@ -1,6 +1,6 @@
 {
-  "name": "qcat",
-  "version": "0.1.0",
+  "name": "q-cat",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
